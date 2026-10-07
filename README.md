@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Aditya, a DevOps Engineer with a Python background.
+I'm Aditya, a DevOps Engineer and Python developer.
 
 I help teams ship software faster, safer, and repeatably.
 
@@ -16,7 +16,7 @@ I care about reliable releases, infrastructure rebuilt from code, and automation
 
 I'm open to DevOps, Cloud, Platform Engineering, Python, and Data Science roles. Feel free to message me!
 
-**Quick Facts:**
+**Tech Stack:**
 - **DevOps:** GitHub Actions, Jenkins, Terraform, Docker, Kubernetes
 - **Cloud:** AWS, Azure
 - **Code:** Python, Django, REST APIs, SQL
